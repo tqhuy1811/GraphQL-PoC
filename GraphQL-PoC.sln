@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL-PoC", "GraphQL-PoC\GraphQL-PoC.csproj", "{F3CE4CB5-845C-4221-812F-3316F3AF3BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CE4CB5-845C-4221-812F-3316F3AF3BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CE4CB5-845C-4221-812F-3316F3AF3BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CE4CB5-845C-4221-812F-3316F3AF3BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CE4CB5-845C-4221-812F-3316F3AF3BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
